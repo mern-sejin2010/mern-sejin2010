@@ -13,6 +13,7 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20Js-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,15 +39,15 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6200EE?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## GitHub Analytics
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mern-sejin2010&theme=react-dark)
-![Sejin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mern-sejin2010&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=mern-sejin2010&theme=react&hide_border=true&background=0D1117&stroke=5A6AFF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9)
 ![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mern-sejin2010&theme=github_dark)
+![Sejin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mern-sejin2010&show_icons=true&theme=radical)
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mern-sejin2010&layout=compact&theme=radical)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mern-sejin2010&theme=github_dark)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mern-sejin2010&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mern-sejin2010&layout=compact&theme=radical)
 ## Productive Time
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mern-sejin2010&theme=github_dark&utcOffset=6)
 ## Summary
