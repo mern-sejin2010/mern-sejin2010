@@ -30,6 +30,7 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![Brevo](https://img.shields.io/badge/Brevo-339933?style=for-the-badge&logo=brevo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![npm](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router%20Dom-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
