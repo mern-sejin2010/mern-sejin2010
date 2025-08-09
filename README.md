@@ -17,6 +17,7 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![Next.js](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=61DAFB)
 ![React Native Paper](https://img.shields.io/badge/React%20Native%20Paper-6200EE?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -60,4 +61,5 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![GitHub Stars](https://img.shields.io/github/stars/mern-sejin2010?label=Stars&style=for-the-badge&color=yellow)
 
 ![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20!!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75)
+
 
