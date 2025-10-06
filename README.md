@@ -1,10 +1,10 @@
 ![Sejin Ahmed](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Sejin%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+and+App+Developer;MERN+Stack+Web+Developer;From+Bangladesh)
 ## About Me
-I am a student of class 10 at `BCIC School and College`, Dhaka, Bangladesh.  
-I have a strong passion for `computer science and technology`. My future dream is to study `Computer Science and Engineering (CSE) at BUET` and become a skilled `computer specialist`.  
-Alongside my studies, I actively work on developing `web and mobile applications` using the `MERN stack` and other modern technologies.  
-I’m eager to learn, build real-world projects, and grow my expertise to make a meaningful impact in the tech world.
+- I am a student of class 10 at `BCIC School and College`, Dhaka, Bangladesh.  
+- I have a strong passion for `computer science and technology`. - My future dream is to study `Computer Science and Engineering (CSE) at BUET` and become a skilled `computer specialist`.  
+- Alongside my studies, I actively work on developing `web and mobile applications` using the `MERN stack` and other modern technologies.  
+- I’m eager to learn, build real-world projects, and grow my expertise to make a meaningful impact in the tech world.
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -61,5 +61,6 @@ I’m eager to learn, build real-world projects, and grow my expertise to make a
 ![GitHub Stars](https://img.shields.io/github/stars/mern-sejin2010?label=Stars&style=for-the-badge&color=yellow)
 
 ![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20!!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75)
+
 
 
