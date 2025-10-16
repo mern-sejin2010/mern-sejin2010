@@ -15,14 +15,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20Js-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Aceternity UI](https://img.shields.io/badge/Aceternity%20UI-1E1E1E?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=61DAFB)
 ![React Native Paper](https://img.shields.io/badge/React%20Native%20Paper-6200EE?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-F05032?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -40,8 +43,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300C4CC?style=for-the-badge&logo=figma&logoColor=white)
 ## Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-339933?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6200EE?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## GitHub Analytics
@@ -62,6 +63,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/mern-sejin2010?label=Stars&style=for-the-badge&color=yellow)
 
 ![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20!!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75)
+
 
 
 
