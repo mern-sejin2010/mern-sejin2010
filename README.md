@@ -1,5 +1,5 @@
 ![Sejin Ahmed](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Sejin%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+and+App+Developer;MERN+Stack+Web+Developer;From+Bangladesh)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+and+App+Developer;From+Bangladesh;Success+is+the+result+of+hard+work)
 ## About Me
 - I am a student of class 10 at `BCIC School and College`, Dhaka, Bangladesh.
 - I work as a `Full Stack Web & App Developer`, focused on building `secure and high-performance` applications.
@@ -66,6 +66,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/mern-sejin2010?label=Stars&style=for-the-badge&color=yellow)
 
 ![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20!!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75)
+
 
 
 
