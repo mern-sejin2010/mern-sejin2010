@@ -1,6 +1,11 @@
-![Sejin Ahmed](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Sejin%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+and+App+Developer;From+Bangladesh;Success+is+the+result+of+hard+work)
+![Banner](/images/banner.webp)
+
+My name is `Sejin Ahmed`, and I’m a passionate `Full Stack Web & App Developer`. I started my programming journey when I was in `class 7`, learning the basics of web development using only a `smartphone`. What began with curiosity quickly turned into a deep passion for building things and understanding how technology works.
+
+Over the past few years, I have explored both `frontend and backend development`, building my knowledge around `modern web technologies and development tools`.
+
 ## About Me
+
 - I am a student of class 10 at `BCIC School and College`, Dhaka, Bangladesh.
 - I work as a `Full Stack Web & App Developer`, focused on building `secure and high-performance` applications.
 - I have a strong passion for `computer science and technology`.
@@ -8,7 +13,9 @@
 - Alongside my studies, I actively work on developing `web and mobile applications` using the `MERN stack` and other modern technologies.  
 - I’m eager to learn, build real-world projects, and grow my expertise to make a meaningful impact in the tech world.
 - Due to my academic studies, I can’t focus on programming right now. 🙁
+
 ## Skills
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6200EE?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -45,33 +52,36 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300C4CC?style=for-the-badge&logo=figma&logoColor=white)
+
 ## Learning
+
 ![Python](https://img.shields.io/badge/Python-6200EE?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ## GitHub Analytics
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mern-sejin2010&theme=react-dark)
 ![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mern-sejin2010&theme=github_dark)
 ![Sejin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mern-sejin2010&show_icons=true&theme=radical)
+
 ## Top Languages
+
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mern-sejin2010&theme=github_dark)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mern-sejin2010&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mern-sejin2010&layout=compact&theme=radical)
+
 ## Productive Time
+
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mern-sejin2010&theme=github_dark&utcOffset=6)
+
 ## Summary
+
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mern-sejin2010&theme=github_dark)
+
 ## Live Metrics
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mern-sejin2010&color=blue&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/mern-sejin2010?label=Followers&style=for-the-badge&color=violet)
 ![GitHub Stars](https://img.shields.io/github/stars/mern-sejin2010?label=Stars&style=for-the-badge&color=yellow)
 
 ![Thank You](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You%20!!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75)
-
-
-
-
-
-
-
-
-
