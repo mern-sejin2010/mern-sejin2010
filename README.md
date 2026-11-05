@@ -137,15 +137,12 @@ Dhaka Education Board | 2026
 ## GitHub Analytics
 
 ![GitHub Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mern-sejin2010&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mern-sejin2010&theme=github_dark&utcOffset=6)
 
 ## Top Languages
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mern-sejin2010&theme=github_dark)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mern-sejin2010&theme=github_dark)
-
-## Productive Time
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mern-sejin2010&theme=github_dark&utcOffset=6)
 
 ## Summary
 
